@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/masudrana2779/how-to-deploy-react-app.git/static/css/main.073c9b0a.css",
-    "main.js": "/masudrana2779/how-to-deploy-react-app.git/static/js/main.3ebea10e.js",
-    "static/js/787.45cc675e.chunk.js": "/masudrana2779/how-to-deploy-react-app.git/static/js/787.45cc675e.chunk.js",
-    "static/media/logo.svg": "/masudrana2779/how-to-deploy-react-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/masudrana2779/how-to-deploy-react-app.git/index.html",
-    "main.073c9b0a.css.map": "/masudrana2779/how-to-deploy-react-app.git/static/css/main.073c9b0a.css.map",
-    "main.3ebea10e.js.map": "/masudrana2779/how-to-deploy-react-app.git/static/js/main.3ebea10e.js.map",
-    "787.45cc675e.chunk.js.map": "/masudrana2779/how-to-deploy-react-app.git/static/js/787.45cc675e.chunk.js.map"
+    "main.css": "/how-to-deploy-react-app/static/css/main.073c9b0a.css",
+    "main.js": "/how-to-deploy-react-app/static/js/main.f092977b.js",
+    "static/js/787.45cc675e.chunk.js": "/how-to-deploy-react-app/static/js/787.45cc675e.chunk.js",
+    "static/media/logo.svg": "/how-to-deploy-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/how-to-deploy-react-app/index.html",
+    "main.073c9b0a.css.map": "/how-to-deploy-react-app/static/css/main.073c9b0a.css.map",
+    "main.f092977b.js.map": "/how-to-deploy-react-app/static/js/main.f092977b.js.map",
+    "787.45cc675e.chunk.js.map": "/how-to-deploy-react-app/static/js/787.45cc675e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3ebea10e.js"
+    "static/js/main.f092977b.js"
   ]
 }
